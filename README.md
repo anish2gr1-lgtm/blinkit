@@ -46,5 +46,5 @@ Insights:
 3.Customer ratings showed a strong relationship with sales performance.
 
 # Screenshots
-Show what the dashboard looks like - ![Dashboard Preview].(https://github.com/anish2gr1-lgtm/blinkit/blob/main/dashboard.png).
+Show what the dashboard looks like - https://github.com/anish2gr1-lgtm/blinkit/blob/main/dashboard.png
 
