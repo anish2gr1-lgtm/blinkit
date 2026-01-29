@@ -45,3 +45,6 @@ Insights:
 2.Some products had high availability but low sales and poor ratings, which pointed to overstocking and low customer preference.
 3.Customer ratings showed a strong relationship with sales performance.
 
+# Screenshots
+Show what the dashboard looks like - 
+
